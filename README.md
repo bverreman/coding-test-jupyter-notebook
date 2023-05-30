@@ -1,6 +1,7 @@
 # coding-test
 
 This a python coding test in Neuro-informatics. 
+
 It contains two exercices :
 
 -Download files from a Dropbox repository and edit a csv file using pandas
